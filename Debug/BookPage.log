@@ -1,0 +1,3 @@
+﻿  BookPage.cpp
+C:\Users\f-abd\source\repos\BookPage\BookPage\BookPage.cpp(75,23): warning C4018: <=: несоответствие типов со знаком и без знака
+  BookPage.vcxproj -> C:\Users\f-abd\source\repos\BookPage\Debug\BookPage.exe
